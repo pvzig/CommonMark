@@ -1,4 +1,5 @@
 import cmark
+import Darwin
 
 /// A CommonMark node.
 public class Node: Codable {
